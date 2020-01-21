@@ -10,8 +10,7 @@ function calculateTotalGoals(players) {
         totalGoals += player.goals;
     }
 
-    return totalGoals;
+    return `total number of goals ${totalGoals}`;
 }
 
-console.log(calculateTotalGoals(players));
 console.log(calculateTotalGoals(players));

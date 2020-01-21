@@ -12,7 +12,7 @@ function calculateMarks(answers, memo) {
         }
     }
 
-    return totalMarks;
+    return `total number of marks ${totalMarks}`;
 }
 
 
