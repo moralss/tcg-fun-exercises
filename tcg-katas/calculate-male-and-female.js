@@ -2,7 +2,6 @@ const students = [
     { studentName: "same", gender: "Male" },
     { studentName: "bob", gender: "Male" },
     { studentName: "same", gender: "Male" },
-    // { studentName: "Kagiso", gender: "Female" }
 ]
 
 
